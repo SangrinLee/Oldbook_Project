@@ -1,7 +1,7 @@
 # Oldbook_project
 
 ========== Main code ========== 
-predict.py : Run automatically the scripts in sequence depending on user’s option(training the language model or predicting the words). After results from unigram/LSTM are serialized, the script saves the predicted words and their probabilities as well as the modified xmls.
+• predict.py : Run automatically the scripts in sequence depending on user’s option(training the language model or predicting the words). After results from unigram/LSTM are serialized, the script saves the predicted words and their probabilities as well as the modified xmls.
 
 ========== Unigram Model ========== 
 freq_get_input.py : reads the XML files and extracts the words from it 
