@@ -1,5 +1,13 @@
 # Oldbook_project
 
+========== Environment==========
+
+Python 3, Pytorch with GPU supported
+
+========== Clone the codebase ==========
+
+git clone https://github.com/SangrinLee/Oldbook_project.git
+
 ========== Main code ========== 
 
 • predict.py : Run automatically the scripts in sequence depending on user’s option(training the language model or predicting the words). After results from unigram/LSTM are serialized, the script saves the predicted words and their probabilities as well as the modified xmls.
